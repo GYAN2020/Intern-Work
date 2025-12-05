@@ -156,13 +156,6 @@ This project demonstrates practical, job-ready skills for:
 * Portfolio building
 * E-commerce analytics understanding
 
-It shows the ability to clean data, perform deep analysis, build insights, and communicate findings effectively.
 
----
 
-If you'd like, I can also generate:
-✅ A short GitHub project summary
-✅ A portfolio-friendly project explanation
-✅ A PowerPoint version for presentation
 
-Just let me know!
